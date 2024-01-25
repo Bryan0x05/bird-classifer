@@ -5,7 +5,5 @@ This has led to low learning rate to the models, with the nueral network model b
 # References
 * Uses the 5 species with the most data points(as of 2023, the sub-dataset can be found in this repo) from: https://www.kaggle.com/datasets/gpiosenka/100-bird-species
 * Several medium articles about the subject:
-    * Logistic Regression https://towardsdatascience.com/logistic-regression-from-scratch-
-69db4f587e17
-    * Neural Network https://towardsdatascience.com/math-neural-network-from-scratch-in-
-python-d6da9f29ce65
+    * Logistic Regression https://towardsdatascience.com/logistic-regression-from-scratch-69db4f587e17
+    * Neural Network https://towardsdatascience.com/math-neural-network-from-scratch-in-python-d6da9f29ce65
